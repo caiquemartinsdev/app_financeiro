@@ -1,24 +1,12 @@
-# README
+# Aplicativo para controle de finanças
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta aplicação visa trazer de forma simples e com filtros seus ganhos e gastos.
+Aqui você encontrará 
 
-Things you may want to cover:
+* Planilha dos seus ganhos 
 
-* Ruby version
+* plahnilha dos seus gastos
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Seus gasto divididos por categorias 
 
 * ...
